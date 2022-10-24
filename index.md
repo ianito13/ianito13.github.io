@@ -23,10 +23,10 @@ Soy un estudiante de informática que esta cursando 2 de SMX en el centro IFP Ho
 
 # **_DATOS DE CONTACTO_**
 
-Dirección: lorem
-Teléfono: lorem
-Email: lorem
-Redes Sociales: lorem
+- Dirección: lorem
+- Teléfono: lorem
+- Email: lorem
+- Redes Sociales: lorem
 
 # **_RESUMEN LABORAL_**
 _VOLUNTARIADOS_
